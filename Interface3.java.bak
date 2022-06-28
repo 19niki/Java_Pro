@@ -1,0 +1,11 @@
+interface Interface3
+{
+	static final int a = 10;
+	void test();
+	public static void main(String [ ] args)
+	{
+		System.out.println(a);
+		
+	}
+
+}

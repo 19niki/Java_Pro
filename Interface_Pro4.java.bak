@@ -1,0 +1,21 @@
+/*
+  Inheritance W.R.T Interfaces
+  case 2 : - class inheriting any number of interface
+  A calss can inherit the interface with the help of the "implements" keyword.
+  
+ */
+
+//Example 02: one class inheriting any number of interface
+
+
+
+
+
+
+class Interface_Pro4 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}

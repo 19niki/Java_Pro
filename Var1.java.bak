@@ -1,0 +1,8 @@
+class Var1 
+{
+	public static void main(String[] args) 
+	{
+		static int a=10;
+		System.out.println(a);
+	}
+}

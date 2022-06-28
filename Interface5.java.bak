@@ -1,0 +1,4 @@
+interface Interface5
+{
+  public abstract final int a =10;
+}

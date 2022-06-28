@@ -1,0 +1,13 @@
+class Data_type
+{
+	static boolean b;
+	static char c; 
+	static int i;
+	public static void main(String[] args) 
+	{
+		
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(i);
+	}
+}
